@@ -1,0 +1,11 @@
+Reference,Qty,Value,Footprint,Datasheet,Manufacturer Part #
+"C1,C2",2,1uF,MP1-footprints:CAPC17595_95N_KEM,https://www.digikey.com/en/products/detail/kemet/C0603C105K3RACTU/3317582,C0603C105K3RACTU
+"C3,C4",2,0.1uF,Capacitor_SMD:C_0603_1608Metric,https://www.digikey.com/en/products/detail/yageo/CC0603JRX7R9BB104/5195188,CC0603JRX7R9BB104
+D1,1,LED,LED_SMD:LED_0805_2012Metric,https://optoelectronics.liteon.com/upload/download/DS-22-99-0226/LTST-C170TBKT.pdf,LTST-C170TBKT
+J1,1,USB_A,MP1-footprints:CONN_480370001_MOL,https://www.digikey.com/en/products/detail/molex/0480370001/857603?s=N4IgTCBcDaIAwBYAccDMB2OWCMIC6AvkA,0480370001
+"R1,R2,R3,R5,R7",5,10k,Resistor_SMD:R_0603_1608Metric,https://www.digikey.com/en/products/detail/yageo/RC0603FR-0710KL/726880,RC0603FR-0710KL
+R4,1,1M,Resistor_SMD:R_0603_1608Metric,https://www.digikey.com/en/products/detail/yageo/RC0603FR-071ML/726844,RC0603FR-071ML
+R6,1,3.01M,Resistor_SMD:R_0603_1608Metric,https://www.digikey.com/en/products/detail/yageo/RC0603FR-073M01L/727122,RC0603FR-073M01L
+R8,1,499k,Resistor_SMD:R_0603_1608Metric,https://www.digikey.com/en/products/detail/yageo/RC0603FR-07499KL/727267,RC0603FR-07499KL
+U1,1,MCP1702T-3302E/CB,MP1-footprints:SOT-23A_MC_MCH,https://ww1.microchip.com/downloads/en/DeviceDoc/22008E.pdf,MCP1702T-3302E/CB
+U4,1,MCP6022T-I/ST,MP1-footprints:TSSOP8_MC_MCH,https://ww1.microchip.com/downloads/en/DeviceDoc/20001685E.pdf,MCP6022T-I/ST
